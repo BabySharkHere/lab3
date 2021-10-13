@@ -2,7 +2,7 @@
 #include "fun.h"
 #include <stdio.h>
 #include <windows.h>
-
+/*правка для репозитория*/
 void LoadRun(const char *fileName, int i) {
     void *pLibrary;
     void (*pFunction)();
