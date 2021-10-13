@@ -1,0 +1,2 @@
+void matrixFunc();
+void arrayFunc();
